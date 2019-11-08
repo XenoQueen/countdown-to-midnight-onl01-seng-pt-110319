@@ -17,5 +17,5 @@ while number > 0
   end
    puts "HAPPY NEW YEAR!"
 end
-countdown
+countdown_with_sleep
 
